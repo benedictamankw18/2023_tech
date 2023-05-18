@@ -81,9 +81,9 @@ footer {
     content: '\ea24';
   }
   
-  img{
-    width: auto;
-    height: auto;
+img{
+    width: 600px;
+    height: 400px;
   }
 .row::after {
     content: "";
